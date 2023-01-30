@@ -2,8 +2,8 @@
 
 int main(int argc, char* argv[]) {
   Foo* foo = new Foo;
-  print_foo_value(*foo);
+  print_foo(*foo);
 
   Bar* bar = new Bar;
-  print_foo_value(*bar);
+  print_foo(*bar);
 }
