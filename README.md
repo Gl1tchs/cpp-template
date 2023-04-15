@@ -9,3 +9,7 @@
 - Change The PROJECT_NAME variable in CmakeLists.txt
 
 - And you are ready! 🥳
+
+## TODO
+
+* [ ] Add namespaces for cmake 
